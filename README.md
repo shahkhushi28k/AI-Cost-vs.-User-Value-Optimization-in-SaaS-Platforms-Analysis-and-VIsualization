@@ -105,7 +105,7 @@ Because direct AI infrastructure metrics were unavailable, cost modeling assumpt
 
 ### 📊 Overall Dashboard
 
-![Overall Dashboard](images/SaaS AI Platform Performance & Cost-to-Value Dashboard.png)
+[![Overall Dashboard](images/SaaS AI Platform Performance & Cost-to-Value Dashboard.png)](https://github.com/shahkhushi28k/AI-Cost-vs.-User-Value-Optimization-in-SaaS-Platforms-Analysis-and-VIsualization/blob/main/images/SaaS%20AI%20Platform%20Performance%20%26%20Cost-to-Value%20Dashboard.png)
 
 The Overall Dashboard provides a high-level summary of AI usage and cost–value performance across the platform. It includes key KPI cards such as total users, churn rate, modeled AI compute cost, and total revenue. Temporal trend charts display monthly subscription growth and active users, while plan-level distribution visuals compare revenue contribution across tiers. Interactive filters enable users to explore changes over time and by subscription plan, supporting executive-level monitoring and strategic decision-making.
 
