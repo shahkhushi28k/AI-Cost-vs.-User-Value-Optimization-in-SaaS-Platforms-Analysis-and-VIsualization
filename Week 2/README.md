@@ -23,7 +23,7 @@ This analysis directly supports both Product and Finance stakeholders by reveali
 
 # 📊 Visualization 1: AI Feature Usage by Month (Grouped Bar Chart)
 
-<!-- INSERT GROUPED BAR CHART IMAGE BELOW -->
+
 ![AI Feature Usage by Month](images/temporal_grouped_bar.png)
 
 ### Purpose
@@ -56,7 +56,7 @@ I selected a grouped bar chart to allow direct comparison between two feature ca
 
 # 📊 Visualization 2: AI Feature Usage Volume Over Time (Stacked Area Chart)
 
-<!-- INSERT STACKED AREA CHART IMAGE BELOW -->
+
 ![AI Feature Usage Volume Over Time](images/temporal_stacked_area.png)
 
 ### Purpose
