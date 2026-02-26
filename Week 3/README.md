@@ -10,7 +10,7 @@ Understanding geographic distribution is critical for infrastructure allocation,
 
 # 📍 Visualization 1: Geographic Distribution of AI Feature Usage (Choropleth Map)
 
-![Geographic Distribution of AI Feature Usage](images/geographic_choropleth.png)
+![Geographic Distribution of AI Feature Usage](../images/geographic_choropleth.png)
 
 ### Purpose
 
@@ -42,7 +42,7 @@ I selected a choropleth map to enable clear comparison across administrative reg
 
 # 🔥 Visualization 2: Geographic Clusters of AI Feature Demand (Heat Map)
 
-![Geographic Clusters of AI Feature Demand](images/geographic_heatmap.png)
+![Geographic Clusters of AI Feature Demand](../images/geographic_heatmap.png)
 
 ### Purpose
 
