@@ -27,7 +27,7 @@ This allowed stakeholders to interpret usage trends in a structured and meaningf
 # 📊 Visualization 1: Distribution of AI Feature Usage by Category  
 *(Stacked Bar Chart)*
 
-![Distribution of AI Feature Usage by Category](images/categorical_stacked_bar.png)
+![Distribution of AI Feature Usage by Category](../images/categorical_stacked_bar.png)
 
 ### Purpose
 
@@ -63,7 +63,7 @@ I selected a stacked bar chart to clearly communicate proportional contribution 
 # 🌳 Visualization 2: AI Feature Category Contribution to Total Usage  
 *(Treemap)*
 
-![AI Feature Category Contribution to Total Usage](images/categorical_treemap.png)
+![AI Feature Category Contribution to Total Usage](../images/categorical_treemap.png)
 
 ### Purpose
 
