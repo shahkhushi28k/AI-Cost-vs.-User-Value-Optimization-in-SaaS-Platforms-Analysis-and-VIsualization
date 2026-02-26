@@ -27,7 +27,7 @@ Together, these visualizations provide both directional and relational perspecti
 
 # 🔗 Visualization 1: Multi-Layer AI Usage Influence Network
 
-![Multi-Layer AI Usage Influence Network](images/network_multilayer.png)
+![Multi-Layer AI Usage Influence Network](../images/network_multilayer.png)
 
 ### Purpose
 
@@ -78,7 +78,7 @@ The average degree of 4.67 indicates meaningful interdependence among AI capabil
 
 # 🧩 Visualization 2: AI Feature Co-Usage & Capability Clusters
 
-![AI Feature Co-Usage & Capability Clusters](images/network_cluster.png)
+![AI Feature Co-Usage & Capability Clusters](../images/network_cluster.png)
 
 ### Purpose
 
